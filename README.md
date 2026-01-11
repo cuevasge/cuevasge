@@ -6,6 +6,7 @@ I am a Data Science student with a co-major in Environmental Sustainability at M
 - Statistical Theory/Programming
 - Regression Analysis
 - Data Structures & Algorithms
+- Databases (SQL)
 - Java
 - R
 
