@@ -9,4 +9,5 @@ I am a Data Science student with a co-major in Environmental Sustainability at M
 - Databases (SQL)
 - Java
 - R
+- Basic ArcGIS Pro
 
